@@ -1,0 +1,31 @@
+{
+  "name": "danbudahomes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "danbudahomes",
+  "author": "Dan Buda",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-google-analytics": "^2.8.0",
+    "gatsby-plugin-manifest": "^2.9.1",
+    "gatsby-plugin-offline": "^3.7.1",
+    "gatsby-plugin-react-helmet": "^3.7.0",
+    "gatsby-plugin-sass": "^2.8.0",
+    "gatsby-plugin-sitemap": "^2.9.0",
+    "node-sass": "^5.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0"
+  }
+}
